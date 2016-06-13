@@ -1,0 +1,13 @@
+gov/loc/cts/receive/AddBagDetailsWorkItemHandler.class
+gov/loc/cts/receive/model/Bag.class
+gov/loc/cts/receive/WorkItemTestHandler.class
+gov/loc/cts/receive/ProcessTest.class
+gov/loc/cts/receive/InterviewWorkItemHandler.class
+gov/loc/cts/receive/BagExistCheckWorkItemHandler.class
+gov/loc/cts/receive/CreditLimitWorkItemHandler.class
+gov/loc/cts/receive/AddBagWorkItemHandler.class
+gov/loc/cts/util/BagBuilder.class
+gov/loc/cts/receive/InventoryWorkItemHandler.class
+gov/loc/cts/receive/HelloProcessExtension.class
+gov/loc/cts/receive/InterviewService.class
+gov/loc/cts/receive/RecruitingWorkItemHandler.class

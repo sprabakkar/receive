@@ -1,0 +1,13 @@
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/InterviewWorkItemHandler.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/HelloProcessExtension.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/InventoryWorkItemHandler.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/RecruitingWorkItemHandler.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/AddBagWorkItemHandler.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/BagExistCheckWorkItemHandler.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/InterviewService.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/ProcessTest.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/util/BagBuilder.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/WorkItemTestHandler.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/model/Bag.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/AddBagDetailsWorkItemHandler.java
+/root/workspaceLoc/receive/src/main/java/gov/loc/cts/receive/CreditLimitWorkItemHandler.java
