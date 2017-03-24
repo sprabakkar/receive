@@ -1,4 +1,4 @@
-package gov.loc.cts.receive;
+package com.kbase.service.receive;
 
 import org.kie.api.runtime.process.WorkItem;
 import org.kie.api.runtime.process.WorkItemHandler;

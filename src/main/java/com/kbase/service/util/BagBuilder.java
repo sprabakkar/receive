@@ -1,11 +1,11 @@
-package gov.loc.cts.util;
-
-import gov.loc.cts.receive.model.Bag;
+package com.kbase.service.util;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import com.kbase.service.receive.model.Bag;
 
 public class BagBuilder {
 	

@@ -1,6 +1,4 @@
-package gov.loc.cts.receive;
-
-import gov.loc.cts.util.BagBuilder;
+package com.kbase.service.receive;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -8,6 +6,8 @@ import java.util.Map;
 import org.kie.api.runtime.process.WorkItem;
 import org.kie.api.runtime.process.WorkItemHandler;
 import org.kie.api.runtime.process.WorkItemManager;
+
+import com.kbase.service.util.BagBuilder;
 
 public class BagExistCheckWorkItemHandler implements WorkItemHandler {
 

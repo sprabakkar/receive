@@ -1,4 +1,4 @@
-package gov.loc.cts.receive.model;
+package com.kbase.service.receive.model;
 
 import java.io.Serializable;
 
